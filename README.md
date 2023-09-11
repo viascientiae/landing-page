@@ -37,3 +37,8 @@ To ensure a systematic and focused approach to this project, I intend to follow 
 The Landing Page project stands as an opportunity to augment my skills in HTML and CSS, particularly with a focus on mastering the applications of Flexbox, a vital tool in contemporary web design. I aspire to exceed the expectations outlined in this README, crafting a webpage that not only mirrors the provided design but also showcases my growing abilities in web development.
 
 I eagerly anticipate embarking on this endeavor, cherishing the learning process that accompanies the creation of a polished final product.
+
+## Image Credits
+
+### Hero Section
+- Photo by [Zaksheuskaya](https://www.pexels.com/photo/blue-and-white-abstract-painting-1546251/) from Pexels
